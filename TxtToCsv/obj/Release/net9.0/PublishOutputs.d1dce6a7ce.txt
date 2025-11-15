@@ -1,0 +1,5 @@
+C:\Users\Jeshua\Desktop\SteamReviewsScraper\TxtToCsv\bin\Release\net9.0\publish\TxtToCsv.exe
+C:\Users\Jeshua\Desktop\SteamReviewsScraper\TxtToCsv\bin\Release\net9.0\publish\TxtToCsv.dll
+C:\Users\Jeshua\Desktop\SteamReviewsScraper\TxtToCsv\bin\Release\net9.0\publish\TxtToCsv.deps.json
+C:\Users\Jeshua\Desktop\SteamReviewsScraper\TxtToCsv\bin\Release\net9.0\publish\TxtToCsv.runtimeconfig.json
+C:\Users\Jeshua\Desktop\SteamReviewsScraper\TxtToCsv\bin\Release\net9.0\publish\TxtToCsv.pdb
